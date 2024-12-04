@@ -1,5 +1,5 @@
 {
-  "baseUrl": "https://api.emmmm.eu.org.cdn.cloudflare.net",
+  "baseUrl": "https://api.xs.cx",
   "bilibiliApiUrl": "https://bili-dm.v1.xs.cx",
   "qqVideoApiUrl": "https://dm.video.qq.com",
   "updateUrl": "https://api.github.com/repos/Sle2p/xs.cx/releases/latest",
